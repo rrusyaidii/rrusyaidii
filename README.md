@@ -64,7 +64,6 @@
 |---------|-------|-------------|
 | [**ResuMatch**](https://github.com/rrusyaidii/resume-match) | Next.js, OpenRouter AI, PostgreSQL | AI-powered resume screener that scores resumes against job descriptions |
 | [**Pulse Board**](https://github.com/rrusyaidii/Pulse-Board) | CodeIgniter 4, MySQL, Bootstrap 5 | Hackathon Kanban system |
-| [**CoffeeLicious**](https://coffeelicious.vercel.app) | Next.js, TypeScript | Neighbourhood cafe website — Pandan Indah, KL |
 
 ---
 
