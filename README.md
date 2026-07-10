@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td valign="top" width="60%">
 
 # 👋 Hey, I'm Haziq Rusyaidi
 
@@ -10,6 +12,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-rusyaidi-zainal-abidin/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rrusyaidii)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziqrusyaidi.zainalabidin@gmail.com)
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,29 +60,11 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/rrusyaidii/resume-match">
-    <img src="https://github-readme-stats-one-gilt.vercel.app/api/pin/?username=rrusyaidii&repo=resume-match&theme=tokyonight" alt="ResuMatch" />
-  </a>
-  <a href="https://github.com/rrusyaidii/Pulse-Board">
-    <img src="https://github-readme-stats-one-gilt.vercel.app/api/pin/?username=rrusyaidii&repo=Pulse-Board&theme=tokyonight" alt="Pulse Board" />
-  </a>
-</p>
-
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**ResuMatch**](https://github.com/rrusyaidii/resume-match) | Next.js, OpenRouter AI, PostgreSQL | AI-powered resume screener that scores resumes against job descriptions |
 | [**Pulse Board**](https://github.com/rrusyaidii/Pulse-Board) | CodeIgniter 4, MySQL, Bootstrap 5 | Hackathon Kanban system |
 | [**CoffeeLicious**](https://coffeelicious.vercel.app) | Next.js, TypeScript | Neighbourhood cafe website — Pandan Indah, KL |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api?username=rrusyaidii&show_icons=true&theme=tokyonight&hide=stars,issues" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=rrusyaidii&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
