@@ -1,89 +1,40 @@
-<table>
-<tr>
-<td valign="top" width="60%">
+# Hey, I'm Haziq Rusyaidi
 
-# 👋 Hey, I'm Haziq Rusyaidi
+**Full-stack developer (Next.js, Node, Postgres) in Kuala Lumpur. Learning DevOps by running my own VPS.**
 
-**Full Stack Developer** &bull; **DevOps Learner** &bull; **AI Enthusiast**
+Developer at Wault. Most of my work is in private repos, so below is what I can show and what I run.
 
-> Full-stack developer in Kuala Lumpur learning DevOps.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nextjs-portfolio-website-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-rusyaidi-zainal-abidin/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haziqrusyaidi.zainalabidin@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nextjs-portfolio-website-two.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-rusyaidi-zainal-abidin/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rrusyaidii)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haziqrusyaidi.zainalabidin@gmail.com)
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-</td>
-</tr>
-</table>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack
+## Projects
 
-**Frontend**
+| Project | What it is | Stack |
+|---------|------------|-------|
+| [**ResuMatch**](https://github.com/rrusyaidii/resume-match) ([live](https://resume-match-67rz.vercel.app)) | AI resume screener that scores resumes against a job description | Next.js, OpenRouter, PostgreSQL |
+| [**multi-agent-research**](https://github.com/rrusyaidii/multi-agent-research) | Multi-agent research pipeline: a supervisor coordinates search, analysis and writer agents to produce a report. Under development. | LangGraph |
 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## What I run
 
-**Backend**
+Private repos, so no source link. This is what's deployed and how:
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![CodeIgniter](https://img.shields.io/badge/codeigniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge)
+- **Expense tracker** at [rusyaidi.online](https://rusyaidi.online): Docker images built in GitHub Actions and pushed to GHCR, deployed to a DigitalOcean VPS behind nginx.
+- **Gym tracker**: same VPS, deployed over SSH from a GitHub Actions workflow, with nightly database backups.
 
-**Databases**
+## Currently learning
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![DigitalOcean](https://img.shields.io/badge/digitalocean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+Linux, nginx, Docker and CI/CD, by deploying my own apps rather than following tutorials.
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**ResuMatch**](https://github.com/rrusyaidii/resume-match) | Next.js, OpenRouter AI, PostgreSQL | AI-powered resume screener that scores resumes against job descriptions |
-| [**Pulse Board**](https://github.com/rrusyaidii/Pulse-Board) | CodeIgniter 4, MySQL, Bootstrap 5 | Hackathon Kanban system |
-
----
-
-### 🎯 Current Focus
-
-```
-🌱 Learning     → Linux, Nginx, Docker, CI/CD, DevOps
-📈 Goal         → AWS Developer Associate
-```
-
----
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/rrusyaidii/rrusyaidii/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<p align="center">
-  <i>Open to junior roles / collabs — <a href="mailto:haziqrusyaidi.zainalabidin@gmail.com">email</a> or <a href="https://www.linkedin.com/in/haziq-rusyaidi-zainal-abidin/">LinkedIn</a>.</i>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=rrusyaidii&color=7aa2f7" alt="Profile views"/>
-</p>
+*Open to junior roles and collaboration. [Email](mailto:haziqrusyaidi.zainalabidin@gmail.com) or [LinkedIn](https://www.linkedin.com/in/haziq-rusyaidi-zainal-abidin/).*
